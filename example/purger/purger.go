@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/adjust/rmq"
+	"github.com/FuTuL/rmq"
 )
 
 func main() {

@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/adjust/rmq"
+	"github.com/FuTuL/rmq"
 )
 
 func main() {

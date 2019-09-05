@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/adjust/rmq"
+	"github.com/FuTuL/rmq"
 )
 
 func main() {

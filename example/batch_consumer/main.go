@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/adjust/rmq"
+	"github.com/FuTuL/rmq"
 )
 
 const unackedLimit = 1000
